@@ -1,0 +1,601 @@
+Application_ID,Application_Date,Student_ID,Company,Skill,Education,Gender,Region,Experience_Years,Application_Status,Processing_Days,Company_Size
+APP1001,2025-01-01 00:00:00.000,Student_103,InnoSoft,Power BI,BTECH,Male,South,4.0,Rejected,10.0,Enterprise
+APP1002,2025-01-01 14:35:03.506,Student_436,ByteWorks,"Python, SQL, Power BI",MSC,Female,West,2.0,Rejected,11.0,Mid-Size
+APP1003,2025-01-02 05:10:07.012,Student_349,CodeCraft,"Python, Power BI",BCA,Male,North,4.0,Shortlisted,1.0,Enterprise
+APP1004,2025-01-02 19:45:10.518,Student_271,InnoSoft,"Python, SQL",MSC,Male,West,1.0,Shortlisted,15.0,Mid-Size
+APP1005,2025-01-03 10:20:14.023,Student_107,TechNova,"Python, SQL",BSC,Male,South,0.0,Selected,3.0,Enterprise
+APP1006,2025-01-04 00:55:17.529,Student_072,MarketMind,"Python, Power BI",BSC,Male,Central,2.0,Rejected,12.0,Enterprise
+APP1007,2025-01-04 15:30:21.035,Student_189,MarketMind,"SQL, Excel",BTECH,Female,East,2.0,Interview,9.0,Startup
+APP1008,2025-01-05 06:05:24.541,Student_021,TechNova,"Python, SQL, Power BI",MSC,Female,West,4.0,Shortlisted,5.0,Enterprise
+APP1009,2025-01-05 20:40:28.047,Student_103,DataSphere,"Python, SQL, Power BI",BCA,Female,West,1.0,Rejected,12.0,Enterprise
+APP1010,2025-01-06 11:15:31.553,Student_122,NextGen,"Python, Power BI",BCA,Male,North,1.0,Shortlisted,10.0,Mid-Size
+APP1011,2025-01-07 01:50:35.058,Student_467,CodeCraft,SQL,MCA,Male,North,6.0,Interview,15.0,Enterprise
+APP1012,2025-01-07 16:25:38.564,Student_215,InsightLabs,"Excel, Tableau",BCA,Male,West,4.0,Shortlisted,2.0,Startup
+APP1013,2025-01-08 07:00:42.070,Student_331,InnoSoft,Python,BTECH,Male,South,1.0,Shortlisted,7.0,Mid-Size
+APP1014,2025-01-08 21:35:45.576,Student_459,TechNova,"Python, Power BI",BTECH,Male,East,5.0,Rejected,15.0,Mid-Size
+APP1015,2025-01-09 12:10:49.082,Student_088,ByteWorks,Power BI,BCA,Female,North,3.0,Selected,2.0,Startup
+APP1016,2025-01-10 02:45:52.588,Student_373,InnoSoft,Power BI,BCA,Male,South,6.0,Applied,4.0,Mid-Size
+APP1017,2025-01-10 17:20:56.093,Student_100,NextGen,Tableau,MCA,Male,Central,5.0,Interview,12.0,Mid-Size
+APP1018,2025-01-11 07:55:59.599,Student_360,ByteWorks,"Python, Power BI",BCA,Male,North,0.0,Shortlisted,7.0,Mid-Size
+APP1019,2025-01-11 22:31:03.105,Student_152,FinEdge,Tableau,MCA,Male,South,2.0,Shortlisted,4.0,Mid-Size
+APP1020,2025-01-12 13:06:06.611,Student_131,MarketMind,"Python, Power BI",MCA,Male,South,6.0,Applied,7.0,Startup
+APP1021,2025-01-13 03:41:10.117,Student_150,FinEdge,"Python, SQL, Power BI",BCA,Female,East,0.0,Shortlisted,7.0,Startup
+APP1022,2025-01-13 18:16:13.623,Student_309,InnoSoft,Python,BSC,Female,East,2.0,Rejected,1.0,Mid-Size
+APP1023,2025-01-14 08:51:17.129,Student_258,NextGen,"Python, SQL, Power BI",BSC,Female,West,3.0,Applied,6.0,Mid-Size
+APP1024,2025-01-14 23:26:20.634,Student_344,CodeCraft,"Excel, Tableau",MCA,Male,South,1.0,Shortlisted,9.0,Startup
+APP1025,2025-01-15 14:01:24.140,Student_492,InnoSoft,"Python, SQL",BCA,Male,South,5.0,Selected,2.0,Startup
+APP1026,2025-01-16 04:36:27.646,Student_414,TechNova,Excel,BSC,Female,East,4.0,Applied,14.0,Startup
+APP1027,2025-01-16 19:11:31.152,Student_294,CloudCore,"Python, Power BI",BCA,Male,North,5.0,Interview,3.0,Mid-Size
+APP1028,2025-01-17 09:46:34.658,Student_386,InnoSoft,"Excel, Tableau",BCA,Female,North,3.0,Shortlisted,10.0,Mid-Size
+APP1029,2025-01-18 00:21:38.164,Student_192,MarketMind,"Python, SQL",BCA,Male,West,0.0,Rejected,5.0,Enterprise
+APP1030,2025-01-18 14:56:41.669,Student_444,MarketMind,"SQL, Excel",MSC,Male,East,4.0,Shortlisted,9.0,Startup
+APP1031,2025-01-19 05:31:45.175,Student_277,InnoSoft,Python,BCA,Male,West,1.0,Applied,4.0,Mid-Size
+APP1032,2025-01-19 20:06:48.681,Student_161,ByteWorks,Tableau,BCA,Male,East,3.0,Applied,1.0,Startup
+APP1033,2025-01-20 10:41:52.187,Student_460,CloudCore,Tableau,MCA,Female,Central,4.0,Applied,4.0,Mid-Size
+APP1034,2025-01-21 01:16:55.693,Student_314,TechNova,"Python, SQL, Power BI",BSC,Male,South,3.0,Shortlisted,6.0,Startup
+APP1035,2025-01-21 15:51:59.199,Student_022,InnoSoft,Power BI,BSC,Male,Central,3.0,Rejected,5.0,Mid-Size
+APP1036,2025-01-22 06:27:02.705,Student_253,ByteWorks,"Python, SQL",BSC,Male,East,1.0,Selected,14.0,Enterprise
+APP1037,2025-01-22 21:02:06.210,Student_236,MarketMind,"SQL, Excel",BSC,Male,South,6.0,Interview,13.0,Enterprise
+APP1038,2025-01-23 11:37:09.716,Student_345,MarketMind,"Excel, Tableau",BSC,Female,North,2.0,Rejected,1.0,Startup
+APP1039,2025-01-24 02:12:13.222,Student_049,NextGen,Python,BSC,Female,North,4.0,Applied,4.0,Mid-Size
+APP1040,2025-01-24 16:47:16.728,Student_475,InnoSoft,"Python, SQL",BSC,Female,West,1.0,Shortlisted,6.0,Mid-Size
+APP1041,2025-01-25 07:22:20.234,Student_059,CloudCore,"SQL, Excel",MCA,Female,East,3.0,Shortlisted,13.0,Startup
+APP1042,2025-01-25 21:57:23.740,Student_170,DataSphere,Excel,BCA,Male,East,1.0,Shortlisted,15.0,Mid-Size
+APP1043,2025-01-26 12:32:27.245,Student_476,CloudCore,"Python, Power BI",BTECH,Female,North,6.0,Rejected,10.0,Startup
+APP1044,2025-01-27 03:07:30.751,Student_188,MarketMind,Tableau,MSC,Male,Central,2.0,Rejected,10.0,Mid-Size
+APP1045,2025-01-27 17:42:34.257,Student_464,MarketMind,"Excel, Tableau",BTECH,Male,South,5.0,Shortlisted,14.0,Startup
+APP1046,2025-01-28 08:17:37.763,Student_271,FinEdge,Tableau,BTECH,Female,Central,4.0,Shortlisted,4.0,Mid-Size
+APP1047,2025-01-28 22:52:41.269,Student_190,MarketMind,"Python, Power BI",BCA,Male,Central,2.0,Interview,15.0,Startup
+APP1048,2025-01-29 13:27:44.775,Student_446,TechNova,"Python, SQL, Power BI",BCA,Female,North,0.0,Interview,14.0,Mid-Size
+APP1049,2025-01-30 04:02:48.280,Student_175,InsightLabs,Power BI,BCA,Male,North,4.0,Shortlisted,9.0,Enterprise
+APP1050,2025-01-30 18:37:51.786,Student_446,InnoSoft,"Excel, Tableau",BSC,Female,North,2.0,Selected,5.0,Mid-Size
+APP1051,2025-01-31 09:12:55.292,Student_051,CloudCore,Tableau,MCA,Female,West,3.0,Selected,8.0,Startup
+APP1052,2025-01-31 23:47:58.798,Student_364,InsightLabs,"Python, SQL, Power BI",BSC,Female,Central,4.0,Shortlisted,9.0,Enterprise
+APP1053,2025-02-01 14:23:02.304,Student_055,ByteWorks,"Excel, Tableau",MCA,Female,East,4.0,Shortlisted,10.0,Mid-Size
+APP1054,2025-02-02 04:58:05.810,Student_244,DataSphere,"Python, Power BI",MCA,Female,South,1.0,Rejected,5.0,Enterprise
+APP1055,2025-02-02 19:33:09.316,Student_320,TechNova,Power BI,BTECH,Male,West,3.0,Selected,6.0,Mid-Size
+APP1056,2025-02-03 10:08:12.821,Student_131,CloudCore,"Excel, Tableau",BTECH,Male,East,0.0,Interview,1.0,Enterprise
+APP1057,2025-02-04 00:43:16.327,Student_485,InsightLabs,"Python, SQL, Power BI",MCA,Male,Central,5.0,Applied,11.0,Startup
+APP1058,2025-02-04 15:18:19.833,Student_307,DataSphere,"Python, SQL",MCA,Female,North,6.0,Shortlisted,12.0,Mid-Size
+APP1059,2025-02-05 05:53:23.339,Student_135,FinEdge,SQL,BSC,Male,Central,2.0,Rejected,15.0,Mid-Size
+APP1060,2025-02-05 20:28:26.845,Student_021,TechNova,"SQL, Excel",BSC,Female,South,1.0,Rejected,7.0,Startup
+APP1061,2025-02-06 11:03:30.351,Student_329,TechNova,SQL,BTECH,Male,West,2.0,Shortlisted,4.0,Enterprise
+APP1062,2025-02-07 01:38:33.856,Student_167,FinEdge,SQL,BCA,Male,West,0.0,Interview,11.0,Startup
+APP1063,2025-02-07 16:13:37.362,Student_274,InnoSoft,Python,MCA,Female,South,0.0,Rejected,2.0,Startup
+APP1064,2025-02-08 06:48:40.868,Student_388,FinEdge,Excel,BSC,Male,East,4.0,Interview,5.0,Enterprise
+APP1065,2025-02-08 21:23:44.374,Student_089,TechNova,"Python, SQL",BTECH,Male,East,6.0,Interview,8.0,Startup
+APP1066,2025-02-09 11:58:47.880,Student_316,InnoSoft,"Python, Power BI",BSC,Male,West,0.0,Interview,3.0,Mid-Size
+APP1067,2025-02-10 02:33:51.386,Student_014,InsightLabs,"Excel, Tableau",MCA,Female,West,2.0,Shortlisted,6.0,Mid-Size
+APP1068,2025-02-10 17:08:54.891,Student_242,MarketMind,"SQL, Excel",MCA,Female,North,3.0,Rejected,8.0,Mid-Size
+APP1069,2025-02-11 07:43:58.397,Student_265,DataSphere,Power BI,MSC,Male,East,3.0,Applied,7.0,Startup
+APP1070,2025-02-11 22:19:01.903,Student_346,FinEdge,"Python, SQL",BCA,Male,South,4.0,Rejected,3.0,Mid-Size
+APP1071,2025-02-12 12:54:05.409,Student_053,DataSphere,Tableau,MSC,Male,East,5.0,Applied,8.0,Mid-Size
+APP1072,2025-02-13 03:29:08.915,Student_386,FinEdge,"Python, Power BI",BTECH,Female,North,2.0,Rejected,2.0,Mid-Size
+APP1073,2025-02-13 18:04:12.421,Student_340,ByteWorks,Python,BSC,Female,West,2.0,Shortlisted,10.0,Mid-Size
+APP1074,2025-02-14 08:39:15.927,Student_092,TechNova,Python,BTECH,Male,West,0.0,Applied,9.0,Mid-Size
+APP1075,2025-02-14 23:14:19.432,Student_367,MarketMind,"Python, SQL",MCA,Male,North,6.0,Applied,4.0,Mid-Size
+APP1076,2025-02-15 13:49:22.938,Student_444,InsightLabs,"Python, SQL, Power BI",MSC,Male,South,2.0,Applied,1.0,Startup
+APP1077,2025-02-16 04:24:26.444,Student_455,MarketMind,SQL,MSC,Female,West,1.0,Interview,8.0,Mid-Size
+APP1078,2025-02-16 18:59:29.950,Student_428,MarketMind,Tableau,MSC,Female,Central,5.0,Interview,7.0,Mid-Size
+APP1079,2025-02-17 09:34:33.456,Student_264,MarketMind,Python,BTECH,Male,West,0.0,Rejected,11.0,Enterprise
+APP1080,2025-02-18 00:09:36.962,Student_431,DataSphere,"SQL, Excel",MCA,Male,Central,1.0,Applied,13.0,Startup
+APP1081,2025-02-18 14:44:40.467,Student_035,FinEdge,Python,BSC,Male,North,4.0,Applied,5.0,Startup
+APP1082,2025-02-19 05:19:43.973,Student_206,CodeCraft,Power BI,BSC,Female,North,3.0,Applied,10.0,Startup
+APP1083,2025-02-19 19:54:47.479,Student_081,ByteWorks,"Excel, Tableau",BTECH,Male,West,4.0,Applied,13.0,Startup
+APP1084,2025-02-20 10:29:50.985,Student_420,CloudCore,Python,MSC,Female,East,3.0,Selected,5.0,Mid-Size
+APP1085,2025-02-21 01:04:54.491,Student_050,MarketMind,Power BI,BCA,Female,Central,4.0,Shortlisted,7.0,Mid-Size
+APP1086,2025-02-21 15:39:57.997,Student_360,InnoSoft,"Python, SQL",BTECH,Male,South,2.0,Shortlisted,5.0,Enterprise
+APP1087,2025-02-22 06:15:01.503,Student_388,DataSphere,"Python, SQL",BTECH,Male,West,1.0,Applied,8.0,Enterprise
+APP1088,2025-02-22 20:50:05.008,Student_002,InsightLabs,"Python, Power BI",MCA,Male,South,3.0,Shortlisted,11.0,Startup
+APP1089,2025-02-23 11:25:08.514,Student_390,CloudCore,Python,BSC,Female,West,0.0,Rejected,13.0,Enterprise
+APP1090,2025-02-24 02:00:12.020,Student_054,CodeCraft,"SQL, Excel",BTECH,Female,East,1.0,Rejected,6.0,Enterprise
+APP1091,2025-02-24 16:35:15.526,Student_106,InnoSoft,Python,BTECH,Female,East,0.0,Shortlisted,13.0,Startup
+APP1092,2025-02-25 07:10:19.032,Student_260,CodeCraft,"SQL, Excel",MSC,Male,East,1.0,Applied,5.0,Startup
+APP1093,2025-02-25 21:45:22.538,Student_310,CloudCore,Excel,MSC,Male,East,1.0,Shortlisted,9.0,Enterprise
+APP1094,2025-02-26 12:20:26.043,Student_477,MarketMind,"Python, Power BI",BCA,Female,North,4.0,Shortlisted,11.0,Mid-Size
+APP1095,2025-02-27 02:55:29.549,Student_191,InnoSoft,Excel,MCA,Female,North,3.0,Shortlisted,2.0,Enterprise
+APP1096,2025-02-27 17:30:33.055,Student_402,CodeCraft,Python,BCA,Male,Central,3.0,Selected,1.0,Enterprise
+APP1097,2025-02-28 08:05:36.561,Student_218,InsightLabs,"Python, Power BI",MSC,Female,South,6.0,Rejected,8.0,Mid-Size
+APP1098,2025-02-28 22:40:40.067,Student_044,FinEdge,Excel,BSC,Female,West,1.0,Rejected,12.0,Mid-Size
+APP1099,2025-03-01 13:15:43.573,Student_162,TechNova,SQL,MSC,Female,West,2.0,Shortlisted,3.0,Startup
+APP1100,2025-03-02 03:50:47.078,Student_202,FinEdge,Python,MCA,Female,North,2.0,Shortlisted,14.0,Startup
+APP1101,2025-03-02 18:25:50.584,Student_446,CloudCore,Excel,MSC,Female,West,0.0,Rejected,11.0,Enterprise
+APP1102,2025-03-03 09:00:54.090,Student_484,DataSphere,SQL,MCA,Female,North,0.0,Rejected,12.0,Mid-Size
+APP1103,2025-03-03 23:35:57.596,Student_270,TechNova,SQL,MCA,Male,Central,4.0,Interview,12.0,Startup
+APP1104,2025-03-04 14:11:01.102,Student_351,ByteWorks,"Python, SQL",MCA,Male,South,1.0,Applied,12.0,Enterprise
+APP1105,2025-03-05 04:46:04.608,Student_304,InsightLabs,Python,MCA,Female,Central,0.0,Rejected,7.0,Mid-Size
+APP1106,2025-03-05 19:21:08.114,Student_271,ByteWorks,SQL,MCA,Male,East,0.0,Shortlisted,10.0,Enterprise
+APP1107,2025-03-06 09:56:11.619,Student_456,InnoSoft,"Python, SQL",BSC,Male,East,5.0,Interview,13.0,Startup
+APP1108,2025-03-07 00:31:15.125,Student_462,TechNova,Excel,BCA,Male,East,1.0,Rejected,11.0,Startup
+APP1109,2025-03-07 15:06:18.631,Student_215,ByteWorks,Power BI,BTECH,Male,Central,4.0,Rejected,8.0,Mid-Size
+APP1110,2025-03-08 05:41:22.137,Student_252,ByteWorks,Python,BCA,Female,West,0.0,Applied,15.0,Enterprise
+APP1111,2025-03-08 20:16:25.643,Student_190,CodeCraft,"Python, Power BI",MCA,Female,South,4.0,Rejected,13.0,Mid-Size
+APP1112,2025-03-09 10:51:29.149,Student_296,FinEdge,"SQL, Excel",BSC,Male,East,3.0,Applied,13.0,Startup
+APP1113,2025-03-10 01:26:32.654,Student_213,CodeCraft,"SQL, Excel",MSC,Male,East,4.0,Shortlisted,6.0,Startup
+APP1114,2025-03-10 16:01:36.160,Student_208,TechNova,Excel,BSC,Male,East,2.0,Applied,12.0,Enterprise
+APP1115,2025-03-11 06:36:39.666,Student_237,TechNova,"Python, SQL, Power BI",MCA,Female,South,2.0,Rejected,10.0,Enterprise
+APP1116,2025-03-11 21:11:43.172,Student_338,CloudCore,"Python, SQL, Power BI",BSC,Female,East,4.0,Shortlisted,14.0,Enterprise
+APP1117,2025-03-12 11:46:46.678,Student_367,CodeCraft,Excel,BSC,Male,South,2.0,Shortlisted,9.0,Mid-Size
+APP1118,2025-03-13 02:21:50.184,Student_053,NextGen,SQL,MCA,Female,East,3.0,Selected,7.0,Enterprise
+APP1119,2025-03-13 16:56:53.689,Student_280,FinEdge,Python,BSC,Female,Central,1.0,Shortlisted,15.0,Enterprise
+APP1120,2025-03-14 07:31:57.195,Student_410,TechNova,"SQL, Excel",BTECH,Female,Central,2.0,Rejected,10.0,Startup
+APP1121,2025-03-14 22:07:00.701,Student_217,CloudCore,"SQL, Excel",BTECH,Female,South,2.0,Shortlisted,5.0,Startup
+APP1122,2025-03-15 12:42:04.207,Student_252,CodeCraft,SQL,BSC,Male,Central,4.0,Applied,8.0,Enterprise
+APP1123,2025-03-16 03:17:07.713,Student_188,FinEdge,"SQL, Excel",MSC,Female,South,3.0,Interview,15.0,Enterprise
+APP1124,2025-03-16 17:52:11.219,Student_380,CodeCraft,"Python, Power BI",MCA,Male,Central,6.0,Applied,8.0,Startup
+APP1125,2025-03-17 08:27:14.725,Student_493,ByteWorks,Python,BTECH,Female,Central,6.0,Shortlisted,7.0,Enterprise
+APP1126,2025-03-17 23:02:18.230,Student_041,CloudCore,"Excel, Tableau",MSC,Female,South,6.0,Rejected,15.0,Mid-Size
+APP1127,2025-03-18 13:37:21.736,Student_157,FinEdge,"SQL, Excel",BSC,Female,West,6.0,Rejected,4.0,Mid-Size
+APP1128,2025-03-19 04:12:25.242,Student_015,MarketMind,Excel,MSC,Female,Central,1.0,Rejected,9.0,Mid-Size
+APP1129,2025-03-19 18:47:28.748,Student_301,InnoSoft,"Python, Power BI",BCA,Male,East,4.0,Shortlisted,12.0,Enterprise
+APP1130,2025-03-20 09:22:32.254,Student_065,InnoSoft,"SQL, Excel",BTECH,Female,West,4.0,Applied,1.0,Startup
+APP1131,2025-03-20 23:57:35.760,Student_345,FinEdge,"Python, Power BI",BSC,Other,South,5.0,Interview,7.0,Enterprise
+APP1132,2025-03-21 14:32:39.265,Student_327,CodeCraft,"Python, SQL",MCA,Female,West,3.0,Rejected,6.0,Enterprise
+APP1133,2025-03-22 05:07:42.771,Student_009,CloudCore,"Excel, Tableau",BSC,Male,North,6.0,Interview,8.0,Startup
+APP1134,2025-03-22 19:42:46.277,Student_344,InnoSoft,Tableau,MCA,Male,North,1.0,Interview,5.0,Startup
+APP1135,2025-03-23 10:17:49.783,Student_129,CloudCore,Excel,BSC,Male,Central,3.0,Interview,15.0,Startup
+APP1136,2025-03-24 00:52:53.289,Student_492,InnoSoft,Excel,MSC,Female,Central,6.0,Shortlisted,1.0,Mid-Size
+APP1137,2025-03-24 15:27:56.795,Student_136,ByteWorks,Python,MSC,Female,East,1.0,Shortlisted,1.0,Enterprise
+APP1138,2025-03-25 06:03:00.300,Student_472,CodeCraft,"Python, Power BI",MSC,Male,West,3.0,Interview,9.0,Startup
+APP1139,2025-03-25 20:38:03.806,Student_063,ByteWorks,SQL,BCA,Male,North,4.0,Shortlisted,15.0,Enterprise
+APP1140,2025-03-26 11:13:07.312,Student_139,InnoSoft,Excel,MCA,Female,Central,4.0,Shortlisted,10.0,Mid-Size
+APP1141,2025-03-27 01:48:10.818,Student_499,MarketMind,"Python, Power BI",MSC,Female,West,0.0,Interview,6.0,Mid-Size
+APP1142,2025-03-27 16:23:14.324,Student_081,MarketMind,"Python, Power BI",BCA,Female,Central,2.0,Selected,10.0,Startup
+APP1143,2025-03-28 06:58:17.830,Student_392,ByteWorks,Power BI,MCA,Female,Central,6.0,Shortlisted,5.0,Startup
+APP1144,2025-03-28 21:33:21.336,Student_163,MarketMind,Power BI,BSC,Male,North,5.0,Applied,15.0,Enterprise
+APP1145,2025-03-29 12:08:24.841,Student_419,InnoSoft,Tableau,BCA,Male,North,3.0,Shortlisted,1.0,Startup
+APP1146,2025-03-30 02:43:28.347,Student_289,FinEdge,"Python, SQL",BTECH,Female,Central,5.0,Interview,6.0,Enterprise
+APP1147,2025-03-30 17:18:31.853,Student_379,ByteWorks,Tableau,BCA,Female,South,0.0,Selected,6.0,Startup
+APP1148,2025-03-31 07:53:35.359,Student_261,DataSphere,"SQL, Excel",BCA,Female,Central,2.0,Shortlisted,3.0,Enterprise
+APP1149,2025-03-31 22:28:38.865,Student_490,CodeCraft,SQL,BCA,Female,Central,3.0,Applied,13.0,Enterprise
+APP1150,2025-04-01 13:03:42.371,Student_231,MarketMind,"SQL, Excel",BSC,Female,East,1.0,Interview,8.0,Enterprise
+APP1151,2025-04-02 03:38:45.876,Student_041,MarketMind,"Python, SQL, Power BI",BTECH,Male,East,6.0,Shortlisted,14.0,Enterprise
+APP1152,2025-04-02 18:13:49.382,Student_028,TechNova,"SQL, Excel",MSC,Male,East,2.0,Rejected,15.0,Mid-Size
+APP1153,2025-04-03 08:48:52.888,Student_135,NextGen,Python,MSC,Male,South,4.0,Selected,1.0,Enterprise
+APP1154,2025-04-03 23:23:56.394,Student_201,ByteWorks,"SQL, Excel",BCA,Male,South,0.0,Applied,1.0,Startup
+APP1155,2025-04-04 13:58:59.900,Student_328,InsightLabs,Tableau,MCA,Female,Central,2.0,Rejected,6.0,Mid-Size
+APP1156,2025-04-05 04:34:03.406,Student_268,MarketMind,Excel,MCA,Other,East,6.0,Applied,10.0,Mid-Size
+APP1157,2025-04-05 19:09:06.912,Student_418,CodeCraft,Excel,MSC,Male,South,2.0,Shortlisted,13.0,Enterprise
+APP1158,2025-04-06 09:44:10.417,Student_033,DataSphere,Power BI,BTECH,Male,North,6.0,Interview,1.0,Mid-Size
+APP1159,2025-04-07 00:19:13.923,Student_048,MarketMind,SQL,BSC,Female,Central,4.0,Shortlisted,6.0,Enterprise
+APP1160,2025-04-07 14:54:17.429,Student_407,DataSphere,SQL,BTECH,Male,West,3.0,Selected,1.0,Startup
+APP1161,2025-04-08 05:29:20.935,Student_062,InnoSoft,Python,BSC,Female,Central,1.0,Rejected,14.0,Enterprise
+APP1162,2025-04-08 20:04:24.441,Student_216,InnoSoft,Tableau,MSC,Female,West,4.0,Shortlisted,13.0,Mid-Size
+APP1163,2025-04-09 10:39:27.947,Student_293,NextGen,Power BI,BSC,Female,East,1.0,Shortlisted,6.0,Startup
+APP1164,2025-04-10 01:14:31.452,Student_099,FinEdge,"Python, SQL, Power BI",MCA,Male,West,3.0,Shortlisted,3.0,Enterprise
+APP1165,2025-04-10 15:49:34.958,Student_172,InsightLabs,SQL,BCA,Male,East,2.0,Shortlisted,14.0,Startup
+APP1166,2025-04-11 06:24:38.464,Student_360,TechNova,Excel,BCA,Female,North,1.0,Applied,14.0,Startup
+APP1167,2025-04-11 20:59:41.970,Student_214,NextGen,"SQL, Excel",MSC,Female,West,0.0,Shortlisted,15.0,Mid-Size
+APP1168,2025-04-12 11:34:45.476,Student_475,CloudCore,"SQL, Excel",MCA,Male,Central,0.0,Shortlisted,8.0,Startup
+APP1169,2025-04-13 02:09:48.982,Student_035,TechNova,Power BI,BTECH,Female,East,6.0,Interview,13.0,Mid-Size
+APP1170,2025-04-13 16:44:52.487,Student_449,ByteWorks,Tableau,MCA,Male,Central,4.0,Rejected,15.0,Startup
+APP1171,2025-04-14 07:19:55.993,Student_227,CodeCraft,Tableau,BCA,Female,South,3.0,Interview,6.0,Enterprise
+APP1172,2025-04-14 21:54:59.499,Student_101,CloudCore,"Python, SQL",BCA,Male,East,6.0,Applied,13.0,Startup
+APP1173,2025-04-15 12:30:03.005,Student_431,CloudCore,"Excel, Tableau",MCA,Female,West,4.0,Shortlisted,11.0,Enterprise
+APP1174,2025-04-16 03:05:06.511,Student_462,NextGen,SQL,MCA,Male,East,4.0,Rejected,13.0,Enterprise
+APP1175,2025-04-16 17:40:10.017,Student_131,FinEdge,Tableau,BCA,Male,Central,6.0,Shortlisted,1.0,Startup
+APP1176,2025-04-17 08:15:13.523,Student_257,NextGen,Excel,BTECH,Male,North,5.0,Applied,15.0,Enterprise
+APP1177,2025-04-17 22:50:17.028,Student_005,ByteWorks,Power BI,MSC,Male,East,4.0,Interview,5.0,Startup
+APP1178,2025-04-18 13:25:20.534,Student_218,MarketMind,"Python, SQL, Power BI",MSC,Female,West,5.0,Interview,8.0,Startup
+APP1179,2025-04-19 04:00:24.040,Student_255,MarketMind,"Python, SQL",MCA,Other,South,0.0,Rejected,3.0,Enterprise
+APP1180,2025-04-19 18:35:27.546,Student_398,FinEdge,"Python, Power BI",MSC,Male,North,0.0,Applied,12.0,Enterprise
+APP1181,2025-04-20 09:10:31.052,Student_359,ByteWorks,Python,BCA,Male,South,4.0,Interview,6.0,Mid-Size
+APP1182,2025-04-20 23:45:34.558,Student_283,FinEdge,"Python, SQL, Power BI",BCA,Female,East,0.0,Rejected,5.0,Enterprise
+APP1183,2025-04-21 14:20:38.063,Student_393,DataSphere,"Python, Power BI",MCA,Female,Central,3.0,Interview,6.0,Mid-Size
+APP1184,2025-04-22 04:55:41.569,Student_207,MarketMind,"SQL, Excel",MCA,Female,Central,5.0,Interview,10.0,Enterprise
+APP1185,2025-04-22 19:30:45.075,Student_015,CloudCore,Python,MCA,Male,West,5.0,Interview,1.0,Startup
+APP1186,2025-04-23 10:05:48.581,Student_346,InsightLabs,SQL,BTECH,Male,Central,4.0,Rejected,7.0,Enterprise
+APP1187,2025-04-24 00:40:52.087,Student_042,CodeCraft,Excel,MSC,Female,North,0.0,Applied,9.0,Startup
+APP1188,2025-04-24 15:15:55.593,Student_380,ByteWorks,Python,MCA,Male,Central,1.0,Rejected,2.0,Startup
+APP1189,2025-04-25 05:50:59.098,Student_461,TechNova,"Excel, Tableau",BSC,Female,West,6.0,Rejected,10.0,Startup
+APP1190,2025-04-25 20:26:02.604,Student_179,FinEdge,"Python, Power BI",BSC,Male,East,6.0,Interview,15.0,Mid-Size
+APP1191,2025-04-26 11:01:06.110,Student_063,CodeCraft,SQL,BCA,Female,East,5.0,Applied,5.0,Enterprise
+APP1192,2025-04-27 01:36:09.616,Student_352,TechNova,"Excel, Tableau",MSC,Male,Central,4.0,Shortlisted,10.0,Startup
+APP1193,2025-04-27 16:11:13.122,Student_231,CodeCraft,"SQL, Excel",MCA,Female,South,4.0,Selected,4.0,Startup
+APP1194,2025-04-28 06:46:16.628,Student_241,InsightLabs,"Excel, Tableau",BSC,Male,East,3.0,Interview,6.0,Mid-Size
+APP1195,2025-04-28 21:21:20.134,Student_052,TechNova,"Python, SQL",MSC,Female,Central,2.0,Selected,6.0,Enterprise
+APP1196,2025-04-29 11:56:23.639,Student_096,NextGen,"Python, SQL",BCA,Male,West,2.0,Interview,11.0,Enterprise
+APP1197,2025-04-30 02:31:27.145,Student_388,InnoSoft,Power BI,BTECH,Female,Central,5.0,Rejected,2.0,Mid-Size
+APP1198,2025-04-30 17:06:30.651,Student_222,NextGen,"Python, SQL, Power BI",MSC,Female,East,6.0,Rejected,2.0,Mid-Size
+APP1199,2025-05-01 07:41:34.157,Student_485,MarketMind,"Python, SQL, Power BI",MSC,Female,West,3.0,Selected,4.0,Enterprise
+APP1200,2025-05-01 22:16:37.663,Student_407,InnoSoft,SQL,BTECH,Female,Central,3.0,Rejected,1.0,Mid-Size
+APP1201,2025-05-02 12:51:41.169,Student_231,NextGen,"SQL, Excel",MSC,Female,North,3.0,Rejected,9.0,Enterprise
+APP1202,2025-05-03 03:26:44.674,Student_237,InnoSoft,Tableau,BCA,Female,West,5.0,Applied,14.0,Enterprise
+APP1203,2025-05-03 18:01:48.180,Student_143,InnoSoft,"Python, SQL",BCA,Male,North,2.0,Shortlisted,14.0,Startup
+APP1204,2025-05-04 08:36:51.686,Student_171,CloudCore,SQL,BTECH,Female,South,6.0,Interview,13.0,Startup
+APP1205,2025-05-04 23:11:55.192,Student_029,FinEdge,Tableau,MCA,Male,West,3.0,Shortlisted,7.0,Enterprise
+APP1206,2025-05-05 13:46:58.698,Student_036,FinEdge,"Python, SQL, Power BI",BSC,Male,North,6.0,Shortlisted,12.0,Enterprise
+APP1207,2025-05-06 04:22:02.204,Student_013,CloudCore,Power BI,MCA,Male,East,0.0,Shortlisted,7.0,Enterprise
+APP1208,2025-05-06 18:57:05.710,Student_160,CodeCraft,"Excel, Tableau",MSC,Male,East,4.0,Shortlisted,15.0,Enterprise
+APP1209,2025-05-07 09:32:09.215,Student_327,DataSphere,"Python, SQL",BSC,Female,South,4.0,Shortlisted,3.0,Enterprise
+APP1210,2025-05-08 00:07:12.721,Student_187,CodeCraft,SQL,BTECH,Female,West,6.0,Shortlisted,15.0,Enterprise
+APP1211,2025-05-08 14:42:16.227,Student_243,InnoSoft,Python,BTECH,Female,West,1.0,Selected,11.0,Mid-Size
+APP1212,2025-05-09 05:17:19.733,Student_086,TechNova,Tableau,BSC,Male,West,1.0,Rejected,15.0,Enterprise
+APP1213,2025-05-09 19:52:23.239,Student_284,InnoSoft,"Excel, Tableau",BCA,Male,South,5.0,Shortlisted,12.0,Mid-Size
+APP1214,2025-05-10 10:27:26.745,Student_066,NextGen,"Python, SQL",BSC,Male,West,5.0,Applied,3.0,Mid-Size
+APP1215,2025-05-11 01:02:30.250,Student_170,NextGen,"Python, SQL, Power BI",MSC,Male,East,4.0,Rejected,1.0,Enterprise
+APP1216,2025-05-11 15:37:33.756,Student_045,FinEdge,"SQL, Excel",BCA,Male,North,0.0,Shortlisted,3.0,Enterprise
+APP1217,2025-05-12 06:12:37.262,Student_062,ByteWorks,Tableau,BTECH,Male,East,2.0,Interview,3.0,Mid-Size
+APP1218,2025-05-12 20:47:40.768,Student_441,CodeCraft,"Python, SQL, Power BI",BSC,Male,East,2.0,Rejected,4.0,Mid-Size
+APP1219,2025-05-13 11:22:44.274,Student_134,MarketMind,"Python, SQL",MCA,Female,North,5.0,Interview,4.0,Enterprise
+APP1220,2025-05-14 01:57:47.780,Student_284,InsightLabs,Tableau,MCA,Female,East,0.0,Shortlisted,3.0,Enterprise
+APP1221,2025-05-14 16:32:51.285,Student_028,NextGen,"Excel, Tableau",MSC,Other,South,5.0,Rejected,10.0,Mid-Size
+APP1222,2025-05-15 07:07:54.791,Student_108,InsightLabs,"Python, SQL",MCA,Female,North,2.0,Shortlisted,12.0,Mid-Size
+APP1223,2025-05-15 21:42:58.297,Student_044,InnoSoft,"Python, Power BI",BSC,Female,East,6.0,Selected,8.0,Mid-Size
+APP1224,2025-05-16 12:18:01.803,Student_340,InsightLabs,"Python, Power BI",BSC,Male,Central,5.0,Rejected,8.0,Startup
+APP1225,2025-05-17 02:53:05.309,Student_286,MarketMind,"Excel, Tableau",MCA,Female,East,3.0,Shortlisted,13.0,Mid-Size
+APP1226,2025-05-17 17:28:08.815,Student_446,CloudCore,Tableau,BSC,Female,South,6.0,Shortlisted,13.0,Startup
+APP1227,2025-05-18 08:03:12.321,Student_331,MarketMind,"SQL, Excel",MSC,Male,West,5.0,Shortlisted,1.0,Enterprise
+APP1228,2025-05-18 22:38:15.826,Student_128,InsightLabs,"Python, SQL, Power BI",BCA,Male,East,4.0,Rejected,7.0,Enterprise
+APP1229,2025-05-19 13:13:19.332,Student_348,MarketMind,Python,MSC,Female,West,5.0,Shortlisted,11.0,Mid-Size
+APP1230,2025-05-20 03:48:22.838,Student_473,DataSphere,"Python, SQL, Power BI",MSC,Male,Central,4.0,Rejected,2.0,Enterprise
+APP1231,2025-05-20 18:23:26.344,Student_231,InnoSoft,Tableau,BSC,Female,East,0.0,Shortlisted,1.0,Enterprise
+APP1232,2025-05-21 08:58:29.850,Student_190,CodeCraft,"Python, SQL, Power BI",BCA,Female,North,2.0,Rejected,3.0,Enterprise
+APP1233,2025-05-21 23:33:33.356,Student_225,CloudCore,SQL,BSC,Male,West,6.0,Interview,4.0,Enterprise
+APP1234,2025-05-22 14:08:36.861,Student_385,NextGen,"Python, SQL",BTECH,Male,Central,6.0,Interview,13.0,Startup
+APP1235,2025-05-23 04:43:40.367,Student_377,TechNova,"Python, Power BI",BSC,Male,North,1.0,Interview,6.0,Startup
+APP1236,2025-05-23 19:18:43.873,Student_283,CodeCraft,Excel,BSC,Male,North,1.0,Shortlisted,10.0,Mid-Size
+APP1237,2025-05-24 09:53:47.379,Student_446,TechNova,Tableau,BSC,Male,North,2.0,Applied,14.0,Mid-Size
+APP1238,2025-05-25 00:28:50.885,Student_121,InnoSoft,Power BI,BCA,Female,North,1.0,Rejected,5.0,Mid-Size
+APP1239,2025-05-25 15:03:54.391,Student_116,CloudCore,Excel,BSC,Male,East,6.0,Shortlisted,15.0,Enterprise
+APP1240,2025-05-26 05:38:57.896,Student_461,FinEdge,"Python, SQL, Power BI",BCA,Male,East,5.0,Shortlisted,15.0,Enterprise
+APP1241,2025-05-26 20:14:01.402,Student_233,NextGen,Tableau,MCA,Male,East,0.0,Applied,14.0,Startup
+APP1242,2025-05-27 10:49:04.908,Student_259,DataSphere,"Python, Power BI",BTECH,Female,Central,0.0,Shortlisted,4.0,Startup
+APP1243,2025-05-28 01:24:08.414,Student_359,FinEdge,Power BI,BCA,Male,Central,2.0,Applied,8.0,Mid-Size
+APP1244,2025-05-28 15:59:11.920,Student_198,InnoSoft,Python,MCA,Male,Central,1.0,Interview,11.0,Startup
+APP1245,2025-05-29 06:34:15.426,Student_456,CodeCraft,"SQL, Excel",BCA,Female,South,5.0,Shortlisted,12.0,Startup
+APP1246,2025-05-29 21:09:18.932,Student_411,DataSphere,"Python, Power BI",BCA,Female,Central,0.0,Rejected,14.0,Startup
+APP1247,2025-05-30 11:44:22.437,Student_137,MarketMind,Excel,BTECH,Male,East,0.0,Applied,4.0,Startup
+APP1248,2025-05-31 02:19:25.943,Student_318,InsightLabs,"Python, SQL",MSC,Female,East,3.0,Rejected,13.0,Startup
+APP1249,2025-05-31 16:54:29.449,Student_165,DataSphere,SQL,MSC,Male,South,3.0,Shortlisted,10.0,Mid-Size
+APP1250,2025-06-01 07:29:32.955,Student_225,InnoSoft,"SQL, Excel",BCA,Male,South,6.0,Selected,12.0,Mid-Size
+APP1251,2025-06-01 22:04:36.461,Student_307,ByteWorks,"Python, Power BI",BSC,Male,Central,0.0,Selected,13.0,Startup
+APP1252,2025-06-02 12:39:39.967,Student_234,InsightLabs,"Python, SQL",MCA,Male,West,2.0,Shortlisted,2.0,Mid-Size
+APP1253,2025-06-03 03:14:43.472,Student_172,TechNova,"Python, SQL",BSC,Female,South,4.0,Selected,15.0,Enterprise
+APP1254,2025-06-03 17:49:46.978,Student_152,NextGen,Tableau,BSC,Male,North,4.0,Selected,3.0,Startup
+APP1255,2025-06-04 08:24:50.484,Student_463,TechNova,"Python, Power BI",BCA,Male,East,5.0,Interview,6.0,Enterprise
+APP1256,2025-06-04 22:59:53.990,Student_315,DataSphere,Python,BCA,Female,West,0.0,Interview,8.0,Mid-Size
+APP1257,2025-06-05 13:34:57.496,Student_374,TechNova,"Python, SQL, Power BI",BCA,Female,East,0.0,Shortlisted,8.0,Mid-Size
+APP1258,2025-06-06 04:10:01.002,Student_160,InnoSoft,Power BI,BCA,Male,East,6.0,Rejected,15.0,Enterprise
+APP1259,2025-06-06 18:45:04.508,Student_096,MarketMind,Power BI,MSC,Female,South,0.0,Applied,11.0,Mid-Size
+APP1260,2025-06-07 09:20:08.013,Student_472,CodeCraft,Excel,BCA,Male,South,2.0,Applied,15.0,Startup
+APP1261,2025-06-07 23:55:11.519,Student_233,NextGen,Excel,MSC,Female,North,3.0,Selected,9.0,Enterprise
+APP1262,2025-06-08 14:30:15.025,Student_180,TechNova,Power BI,MSC,Female,East,0.0,Shortlisted,7.0,Startup
+APP1263,2025-06-09 05:05:18.531,Student_113,TechNova,Python,BCA,Female,North,0.0,Interview,13.0,Enterprise
+APP1264,2025-06-09 19:40:22.037,Student_318,DataSphere,SQL,BTECH,Male,West,6.0,Interview,2.0,Mid-Size
+APP1265,2025-06-10 10:15:25.543,Student_497,InnoSoft,"Excel, Tableau",MCA,Male,North,1.0,Interview,8.0,Enterprise
+APP1266,2025-06-11 00:50:29.048,Student_442,FinEdge,"Python, SQL, Power BI",BSC,Male,Central,6.0,Selected,7.0,Enterprise
+APP1267,2025-06-11 15:25:32.554,Student_052,TechNova,SQL,MSC,Male,North,6.0,Shortlisted,8.0,Startup
+APP1268,2025-06-12 06:00:36.060,Student_268,InnoSoft,Tableau,MCA,Male,Central,2.0,Applied,12.0,Mid-Size
+APP1269,2025-06-12 20:35:39.566,Student_295,ByteWorks,"Excel, Tableau",BTECH,Female,Central,5.0,Shortlisted,3.0,Startup
+APP1270,2025-06-13 11:10:43.072,Student_386,NextGen,"Excel, Tableau",BSC,Male,Central,0.0,Applied,7.0,Mid-Size
+APP1271,2025-06-14 01:45:46.578,Student_387,TechNova,"Python, Power BI",BSC,Male,West,6.0,Applied,10.0,Startup
+APP1272,2025-06-14 16:20:50.083,Student_113,InnoSoft,Python,MSC,Female,North,6.0,Shortlisted,13.0,Enterprise
+APP1273,2025-06-15 06:55:53.589,Student_101,InnoSoft,Python,BCA,Male,North,1.0,Interview,9.0,Startup
+APP1274,2025-06-15 21:30:57.095,Student_113,NextGen,"Excel, Tableau",BTECH,Female,West,6.0,Rejected,3.0,Mid-Size
+APP1275,2025-06-16 12:06:00.601,Student_440,FinEdge,"Python, Power BI",MSC,Male,East,4.0,Shortlisted,14.0,Mid-Size
+APP1276,2025-06-17 02:41:04.107,Student_081,InnoSoft,"Python, SQL, Power BI",BTECH,Male,South,5.0,Rejected,10.0,Enterprise
+APP1277,2025-06-17 17:16:07.613,Student_187,ByteWorks,"Excel, Tableau",BCA,Male,North,0.0,Shortlisted,6.0,Mid-Size
+APP1278,2025-06-18 07:51:11.119,Student_113,InnoSoft,"SQL, Excel",BCA,Male,South,0.0,Applied,2.0,Startup
+APP1279,2025-06-18 22:26:14.624,Student_002,InnoSoft,Excel,MSC,Female,West,1.0,Interview,2.0,Enterprise
+APP1280,2025-06-19 13:01:18.130,Student_130,InnoSoft,Excel,BCA,Male,East,2.0,Rejected,5.0,Mid-Size
+APP1281,2025-06-20 03:36:21.636,Student_220,MarketMind,"Python, Power BI",MCA,Male,East,0.0,Interview,5.0,Mid-Size
+APP1282,2025-06-20 18:11:25.142,Student_054,MarketMind,Tableau,BSC,Male,East,4.0,Applied,13.0,Startup
+APP1283,2025-06-21 08:46:28.648,Student_343,FinEdge,Excel,MSC,Male,West,0.0,Interview,7.0,Startup
+APP1284,2025-06-21 23:21:32.154,Student_485,TechNova,"Python, SQL",BTECH,Female,Central,4.0,Rejected,12.0,Enterprise
+APP1285,2025-06-22 13:56:35.659,Student_224,InnoSoft,SQL,MCA,Male,Central,5.0,Rejected,2.0,Mid-Size
+APP1286,2025-06-23 04:31:39.165,Student_225,CodeCraft,Excel,MSC,Female,South,5.0,Rejected,11.0,Startup
+APP1287,2025-06-23 19:06:42.671,Student_385,TechNova,Tableau,BCA,Female,Central,3.0,Interview,14.0,Enterprise
+APP1288,2025-06-24 09:41:46.177,Student_403,FinEdge,Python,BCA,Female,Central,3.0,Rejected,13.0,Mid-Size
+APP1289,2025-06-25 00:16:49.683,Student_126,CloudCore,Python,BCA,Female,East,4.0,Rejected,7.0,Mid-Size
+APP1290,2025-06-25 14:51:53.189,Student_130,TechNova,"Python, SQL, Power BI",BCA,Male,East,2.0,Selected,5.0,Enterprise
+APP1291,2025-06-26 05:26:56.694,Student_053,TechNova,"Excel, Tableau",BTECH,Male,South,0.0,Interview,14.0,Enterprise
+APP1292,2025-06-26 20:02:00.200,Student_172,InsightLabs,"SQL, Excel",MCA,Male,North,6.0,Shortlisted,6.0,Startup
+APP1293,2025-06-27 10:37:03.706,Student_218,DataSphere,Python,BSC,Female,South,0.0,Interview,8.0,Mid-Size
+APP1294,2025-06-28 01:12:07.212,Student_160,InsightLabs,"Python, Power BI",BTECH,Other,South,3.0,Shortlisted,10.0,Mid-Size
+APP1295,2025-06-28 15:47:10.718,Student_198,ByteWorks,Excel,BTECH,Male,West,6.0,Shortlisted,13.0,Mid-Size
+APP1296,2025-06-29 06:22:14.224,Student_416,MarketMind,"Python, Power BI",BSC,Female,West,4.0,Rejected,14.0,Enterprise
+APP1297,2025-06-29 20:57:17.730,Student_247,MarketMind,Tableau,BSC,Male,South,6.0,Selected,12.0,Startup
+APP1298,2025-06-30 11:32:21.235,Student_324,DataSphere,Python,BCA,Female,South,0.0,Selected,4.0,Mid-Size
+APP1299,2025-07-01 02:07:24.741,Student_439,NextGen,"SQL, Excel",BTECH,Male,South,0.0,Shortlisted,13.0,Enterprise
+APP1300,2025-07-01 16:42:28.247,Student_203,NextGen,Tableau,MSC,Female,Central,2.0,Rejected,7.0,Mid-Size
+APP1301,2025-07-02 07:17:31.753,Student_184,FinEdge,"Python, SQL",BSC,Female,West,1.0,Shortlisted,6.0,Startup
+APP1302,2025-07-02 21:52:35.259,Student_123,DataSphere,"Python, SQL",BSC,Male,South,6.0,Selected,10.0,Mid-Size
+APP1303,2025-07-03 12:27:38.765,Student_401,TechNova,"Python, Power BI",MCA,Male,East,3.0,Selected,2.0,Startup
+APP1304,2025-07-04 03:02:42.270,Student_255,NextGen,"Excel, Tableau",MSC,Male,East,3.0,Rejected,15.0,Startup
+APP1305,2025-07-04 17:37:45.776,Student_294,InnoSoft,SQL,MSC,Male,Central,1.0,Interview,8.0,Mid-Size
+APP1306,2025-07-05 08:12:49.282,Student_280,CodeCraft,"Excel, Tableau",BSC,Male,Central,0.0,Interview,10.0,Mid-Size
+APP1307,2025-07-05 22:47:52.788,Student_325,TechNova,"Python, SQL, Power BI",BCA,Female,North,2.0,Rejected,9.0,Startup
+APP1308,2025-07-06 13:22:56.294,Student_372,ByteWorks,"Excel, Tableau",MCA,Female,North,2.0,Applied,5.0,Enterprise
+APP1309,2025-07-07 03:57:59.800,Student_098,InnoSoft,"Python, SQL, Power BI",MSC,Male,North,3.0,Shortlisted,10.0,Startup
+APP1310,2025-07-07 18:33:03.306,Student_198,InnoSoft,"Python, SQL, Power BI",BSC,Male,Central,2.0,Rejected,4.0,Mid-Size
+APP1311,2025-07-08 09:08:06.811,Student_470,DataSphere,"SQL, Excel",MSC,Female,Central,5.0,Rejected,6.0,Mid-Size
+APP1312,2025-07-08 23:43:10.317,Student_395,FinEdge,Python,MCA,Female,Central,1.0,Shortlisted,8.0,Enterprise
+APP1313,2025-07-09 14:18:13.823,Student_240,ByteWorks,"SQL, Excel",MCA,Male,East,0.0,Selected,11.0,Startup
+APP1314,2025-07-10 04:53:17.329,Student_144,NextGen,"Python, SQL, Power BI",BTECH,Female,Central,5.0,Applied,15.0,Startup
+APP1315,2025-07-10 19:28:20.835,Student_097,DataSphere,Tableau,BSC,Female,East,1.0,Rejected,3.0,Startup
+APP1316,2025-07-11 10:03:24.341,Student_201,NextGen,"Python, SQL",MCA,Male,North,4.0,Rejected,10.0,Mid-Size
+APP1317,2025-07-12 00:38:27.846,Student_124,DataSphere,"Python, SQL, Power BI",BTECH,Male,North,6.0,Rejected,11.0,Startup
+APP1318,2025-07-12 15:13:31.352,Student_187,DataSphere,"Python, Power BI",BTECH,Male,North,3.0,Rejected,11.0,Enterprise
+APP1319,2025-07-13 05:48:34.858,Student_326,DataSphere,Tableau,MSC,Male,South,2.0,Shortlisted,1.0,Mid-Size
+APP1320,2025-07-13 20:23:38.364,Student_464,FinEdge,"SQL, Excel",MSC,Female,South,4.0,Applied,4.0,Mid-Size
+APP1321,2025-07-14 10:58:41.870,Student_349,DataSphere,"Excel, Tableau",BTECH,Female,West,2.0,Rejected,15.0,Startup
+APP1322,2025-07-15 01:33:45.376,Student_259,CloudCore,Excel,MSC,Female,West,5.0,Rejected,4.0,Enterprise
+APP1323,2025-07-15 16:08:48.881,Student_148,CodeCraft,"Python, Power BI",MCA,Male,West,0.0,Applied,1.0,Mid-Size
+APP1324,2025-07-16 06:43:52.387,Student_252,NextGen,SQL,BCA,Male,South,0.0,Interview,9.0,Mid-Size
+APP1325,2025-07-16 21:18:55.893,Student_443,TechNova,"SQL, Excel",MCA,Female,South,0.0,Shortlisted,3.0,Startup
+APP1326,2025-07-17 11:53:59.399,Student_420,InsightLabs,SQL,BTECH,Female,West,2.0,Rejected,5.0,Startup
+APP1327,2025-07-18 02:29:02.905,Student_403,ByteWorks,"Python, Power BI",BTECH,Male,West,4.0,Interview,6.0,Enterprise
+APP1328,2025-07-18 17:04:06.411,Student_346,MarketMind,"SQL, Excel",MCA,Male,Central,0.0,Applied,8.0,Startup
+APP1329,2025-07-19 07:39:09.917,Student_451,FinEdge,Excel,MSC,Female,West,4.0,Applied,6.0,Enterprise
+APP1330,2025-07-19 22:14:13.422,Student_147,TechNova,SQL,MSC,Male,Central,2.0,Interview,3.0,Mid-Size
+APP1331,2025-07-20 12:49:16.928,Student_148,InnoSoft,"Python, SQL, Power BI",BTECH,Male,East,5.0,Rejected,6.0,Enterprise
+APP1332,2025-07-21 03:24:20.434,Student_352,CloudCore,"SQL, Excel",BSC,Female,South,4.0,Rejected,1.0,Enterprise
+APP1333,2025-07-21 17:59:23.940,Student_199,MarketMind,Python,MSC,Male,West,5.0,Interview,4.0,Enterprise
+APP1334,2025-07-22 08:34:27.446,Student_308,InsightLabs,"Python, Power BI",MCA,Male,South,2.0,Interview,6.0,Mid-Size
+APP1335,2025-07-22 23:09:30.952,Student_489,TechNova,Excel,MSC,Male,South,2.0,Selected,7.0,Startup
+APP1336,2025-07-23 13:44:34.457,Student_417,MarketMind,SQL,MCA,Male,South,3.0,Rejected,11.0,Mid-Size
+APP1337,2025-07-24 04:19:37.963,Student_424,TechNova,Excel,BTECH,Female,East,2.0,Shortlisted,13.0,Startup
+APP1338,2025-07-24 18:54:41.469,Student_128,CloudCore,Tableau,MSC,Male,North,2.0,Shortlisted,11.0,Enterprise
+APP1339,2025-07-25 09:29:44.975,Student_039,InsightLabs,"Python, Power BI",MCA,Male,West,1.0,Applied,8.0,Enterprise
+APP1340,2025-07-26 00:04:48.481,Student_338,InnoSoft,"Python, SQL, Power BI",BTECH,Female,North,0.0,Rejected,3.0,Enterprise
+APP1341,2025-07-26 14:39:51.987,Student_360,DataSphere,"SQL, Excel",BSC,Female,North,3.0,Shortlisted,9.0,Enterprise
+APP1342,2025-07-27 05:14:55.492,Student_129,NextGen,"SQL, Excel",MCA,Female,North,6.0,Selected,12.0,Enterprise
+APP1343,2025-07-27 19:49:58.998,Student_267,InnoSoft,"SQL, Excel",BSC,Male,South,3.0,Rejected,12.0,Startup
+APP1344,2025-07-28 10:25:02.504,Student_476,DataSphere,"Python, Power BI",BSC,Male,Central,3.0,Rejected,7.0,Startup
+APP1345,2025-07-29 01:00:06.010,Student_441,FinEdge,Python,BCA,Other,South,6.0,Shortlisted,14.0,Enterprise
+APP1346,2025-07-29 15:35:09.516,Student_473,CodeCraft,Power BI,MSC,Female,South,1.0,Applied,1.0,Mid-Size
+APP1347,2025-07-30 06:10:13.022,Student_434,ByteWorks,"Python, SQL",MCA,Male,North,5.0,Applied,2.0,Mid-Size
+APP1348,2025-07-30 20:45:16.528,Student_151,ByteWorks,"Excel, Tableau",BSC,Male,South,2.0,Shortlisted,1.0,Enterprise
+APP1349,2025-07-31 11:20:20.033,Student_415,InnoSoft,SQL,BCA,Male,North,0.0,Applied,11.0,Startup
+APP1350,2025-08-01 01:55:23.539,Student_478,InsightLabs,Python,BTECH,Female,Central,4.0,Rejected,9.0,Mid-Size
+APP1351,2025-08-01 16:30:27.045,Student_298,CloudCore,"Python, SQL, Power BI",MCA,Male,West,6.0,Selected,9.0,Mid-Size
+APP1352,2025-08-02 07:05:30.551,Student_099,InsightLabs,SQL,BSC,Male,North,5.0,Selected,7.0,Mid-Size
+APP1353,2025-08-02 21:40:34.057,Student_263,CloudCore,"SQL, Excel",MSC,Male,Central,6.0,Rejected,10.0,Enterprise
+APP1354,2025-08-03 12:15:37.563,Student_252,InsightLabs,Excel,BCA,Female,West,2.0,Shortlisted,3.0,Mid-Size
+APP1355,2025-08-04 02:50:41.068,Student_144,CodeCraft,"Python, SQL, Power BI",BSC,Female,East,1.0,Interview,13.0,Mid-Size
+APP1356,2025-08-04 17:25:44.574,Student_346,FinEdge,SQL,MSC,Male,North,6.0,Selected,15.0,Mid-Size
+APP1357,2025-08-05 08:00:48.080,Student_112,FinEdge,"SQL, Excel",BSC,Female,North,2.0,Shortlisted,5.0,Mid-Size
+APP1358,2025-08-05 22:35:51.586,Student_500,DataSphere,SQL,MCA,Female,East,2.0,Interview,8.0,Startup
+APP1359,2025-08-06 13:10:55.092,Student_060,MarketMind,Excel,MCA,Male,East,1.0,Shortlisted,4.0,Enterprise
+APP1360,2025-08-07 03:45:58.598,Student_369,FinEdge,"SQL, Excel",MCA,Male,North,3.0,Interview,7.0,Enterprise
+APP1361,2025-08-07 18:21:02.104,Student_002,FinEdge,Power BI,BCA,Male,East,3.0,Selected,14.0,Startup
+APP1362,2025-08-08 08:56:05.609,Student_385,InnoSoft,Python,MCA,Female,South,0.0,Applied,9.0,Startup
+APP1363,2025-08-08 23:31:09.115,Student_304,InnoSoft,Tableau,MSC,Female,West,0.0,Selected,12.0,Enterprise
+APP1364,2025-08-09 14:06:12.621,Student_254,DataSphere,"Excel, Tableau",BSC,Female,West,3.0,Rejected,2.0,Mid-Size
+APP1365,2025-08-10 04:41:16.127,Student_140,MarketMind,"Python, Power BI",BCA,Female,West,3.0,Selected,13.0,Mid-Size
+APP1366,2025-08-10 19:16:19.633,Student_453,NextGen,"Excel, Tableau",MSC,Male,South,4.0,Shortlisted,8.0,Enterprise
+APP1367,2025-08-11 09:51:23.139,Student_037,InnoSoft,"Python, SQL, Power BI",MSC,Female,East,2.0,Interview,15.0,Mid-Size
+APP1368,2025-08-12 00:26:26.644,Student_160,NextGen,"Excel, Tableau",MCA,Male,Central,4.0,Applied,9.0,Startup
+APP1369,2025-08-12 15:01:30.150,Student_009,TechNova,"SQL, Excel",BCA,Male,East,2.0,Shortlisted,10.0,Mid-Size
+APP1370,2025-08-13 05:36:33.656,Student_233,InnoSoft,Power BI,BSC,Female,North,3.0,Applied,14.0,Mid-Size
+APP1371,2025-08-13 20:11:37.162,Student_099,CodeCraft,Tableau,BCA,Female,West,0.0,Selected,10.0,Mid-Size
+APP1372,2025-08-14 10:46:40.668,Student_147,MarketMind,Python,BSC,Male,East,5.0,Interview,9.0,Enterprise
+APP1373,2025-08-15 01:21:44.174,Student_304,DataSphere,Python,BSC,Female,Central,0.0,Interview,14.0,Startup
+APP1374,2025-08-15 15:56:47.679,Student_208,TechNova,Excel,BCA,Female,North,4.0,Selected,10.0,Mid-Size
+APP1375,2025-08-16 06:31:51.185,Student_131,MarketMind,"Python, Power BI",MSC,Male,South,0.0,Applied,14.0,Enterprise
+APP1376,2025-08-16 21:06:54.691,Student_404,CodeCraft,SQL,BSC,Other,South,3.0,Shortlisted,7.0,Mid-Size
+APP1377,2025-08-17 11:41:58.197,Student_152,MarketMind,Power BI,BCA,Male,Central,5.0,Applied,15.0,Startup
+APP1378,2025-08-18 02:17:01.703,Student_054,CodeCraft,SQL,BCA,Male,North,4.0,Shortlisted,9.0,Mid-Size
+APP1379,2025-08-18 16:52:05.209,Student_120,InnoSoft,Tableau,BTECH,Male,West,5.0,Shortlisted,9.0,Startup
+APP1380,2025-08-19 07:27:08.715,Student_161,NextGen,"Excel, Tableau",MSC,Female,East,2.0,Shortlisted,14.0,Mid-Size
+APP1381,2025-08-19 22:02:12.220,Student_408,InsightLabs,Python,MCA,Female,North,0.0,Shortlisted,3.0,Startup
+APP1382,2025-08-20 12:37:15.726,Student_116,TechNova,Tableau,BSC,Male,South,5.0,Applied,4.0,Mid-Size
+APP1383,2025-08-21 03:12:19.232,Student_075,MarketMind,"Excel, Tableau",BTECH,Male,Central,1.0,Applied,2.0,Startup
+APP1384,2025-08-21 17:47:22.738,Student_113,CloudCore,Python,MCA,Female,Central,0.0,Applied,10.0,Mid-Size
+APP1385,2025-08-22 08:22:26.244,Student_456,TechNova,"Excel, Tableau",MCA,Male,East,2.0,Selected,3.0,Mid-Size
+APP1386,2025-08-22 22:57:29.750,Student_420,InsightLabs,"Python, Power BI",BSC,Female,Central,5.0,Interview,11.0,Enterprise
+APP1387,2025-08-23 13:32:33.255,Student_422,TechNova,Power BI,BCA,Female,Central,4.0,Selected,8.0,Enterprise
+APP1388,2025-08-24 04:07:36.761,Student_104,FinEdge,"Python, SQL, Power BI",BSC,Male,North,2.0,Shortlisted,5.0,Startup
+APP1389,2025-08-24 18:42:40.267,Student_340,CloudCore,Tableau,BTECH,Female,West,1.0,Shortlisted,5.0,Mid-Size
+APP1390,2025-08-25 09:17:43.773,Student_254,InsightLabs,Tableau,MCA,Male,East,5.0,Interview,6.0,Startup
+APP1391,2025-08-25 23:52:47.279,Student_227,NextGen,"Python, SQL",BSC,Other,North,6.0,Shortlisted,13.0,Enterprise
+APP1392,2025-08-26 14:27:50.785,Student_112,MarketMind,"SQL, Excel",BCA,Female,West,6.0,Shortlisted,7.0,Startup
+APP1393,2025-08-27 05:02:54.290,Student_473,ByteWorks,"Python, Power BI",BSC,Female,North,3.0,Shortlisted,7.0,Startup
+APP1394,2025-08-27 19:37:57.796,Student_099,InsightLabs,"Python, Power BI",MSC,Male,North,0.0,Applied,1.0,Enterprise
+APP1395,2025-08-28 10:13:01.302,Student_153,DataSphere,SQL,BCA,Female,Central,4.0,Shortlisted,14.0,Mid-Size
+APP1396,2025-08-29 00:48:04.808,Student_349,MarketMind,"Excel, Tableau",BTECH,Male,West,3.0,Shortlisted,2.0,Startup
+APP1397,2025-08-29 15:23:08.314,Student_402,InsightLabs,"SQL, Excel",MCA,Male,East,5.0,Rejected,12.0,Enterprise
+APP1398,2025-08-30 05:58:11.820,Student_384,FinEdge,Power BI,BSC,Male,East,6.0,Applied,9.0,Mid-Size
+APP1399,2025-08-30 20:33:15.326,Student_366,ByteWorks,Power BI,BCA,Male,West,6.0,Shortlisted,10.0,Enterprise
+APP1400,2025-08-31 11:08:18.831,Student_338,FinEdge,"Python, Power BI",MSC,Male,Central,6.0,Interview,2.0,Startup
+APP1401,2025-09-01 01:43:22.337,Student_194,ByteWorks,Power BI,BCA,Female,South,5.0,Applied,6.0,Mid-Size
+APP1402,2025-09-01 16:18:25.843,Student_310,DataSphere,"Python, SQL",MSC,Female,North,6.0,Shortlisted,11.0,Mid-Size
+APP1403,2025-09-02 06:53:29.349,Student_163,MarketMind,Tableau,BTECH,Male,Central,2.0,Interview,11.0,Enterprise
+APP1404,2025-09-02 21:28:32.855,Student_208,NextGen,Excel,MCA,Female,West,5.0,Applied,1.0,Enterprise
+APP1405,2025-09-03 12:03:36.361,Student_445,FinEdge,"Python, SQL, Power BI",BTECH,Male,North,4.0,Applied,3.0,Enterprise
+APP1406,2025-09-04 02:38:39.866,Student_169,FinEdge,SQL,BSC,Female,East,3.0,Shortlisted,2.0,Mid-Size
+APP1407,2025-09-04 17:13:43.372,Student_484,CodeCraft,"Excel, Tableau",BCA,Female,South,4.0,Shortlisted,3.0,Mid-Size
+APP1408,2025-09-05 07:48:46.878,Student_161,ByteWorks,"Python, SQL, Power BI",MSC,Female,West,1.0,Rejected,5.0,Startup
+APP1409,2025-09-05 22:23:50.384,Student_068,InnoSoft,"Excel, Tableau",MSC,Female,West,6.0,Interview,11.0,Mid-Size
+APP1410,2025-09-06 12:58:53.890,Student_289,MarketMind,Python,BCA,Male,North,1.0,Applied,10.0,Startup
+APP1411,2025-09-07 03:33:57.396,Student_398,ByteWorks,"Python, SQL, Power BI",BCA,Male,West,0.0,Rejected,6.0,Enterprise
+APP1412,2025-09-07 18:09:00.902,Student_277,CodeCraft,Excel,BSC,Female,North,0.0,Rejected,9.0,Enterprise
+APP1413,2025-09-08 08:44:04.407,Student_304,TechNova,"Python, Power BI",BTECH,Male,Central,1.0,Applied,12.0,Mid-Size
+APP1414,2025-09-08 23:19:07.913,Student_404,ByteWorks,"Python, SQL",MSC,Male,South,5.0,Rejected,11.0,Enterprise
+APP1415,2025-09-09 13:54:11.419,Student_384,NextGen,Tableau,BSC,Male,Central,4.0,Shortlisted,15.0,Enterprise
+APP1416,2025-09-10 04:29:14.925,Student_392,MarketMind,Tableau,BTECH,Female,Central,1.0,Shortlisted,15.0,Mid-Size
+APP1417,2025-09-10 19:04:18.431,Student_135,CodeCraft,"Python, Power BI",BSC,Male,West,0.0,Applied,10.0,Startup
+APP1418,2025-09-11 09:39:21.937,Student_195,TechNova,"SQL, Excel",MSC,Male,South,1.0,Shortlisted,12.0,Mid-Size
+APP1419,2025-09-12 00:14:25.442,Student_401,CloudCore,Python,BCA,Female,North,5.0,Shortlisted,12.0,Startup
+APP1420,2025-09-12 14:49:28.948,Student_128,CodeCraft,"Excel, Tableau",BCA,Female,North,1.0,Interview,13.0,Mid-Size
+APP1421,2025-09-13 05:24:32.454,Student_033,CloudCore,Excel,BTECH,Male,East,4.0,Applied,4.0,Mid-Size
+APP1422,2025-09-13 19:59:35.960,Student_176,MarketMind,Power BI,MCA,Male,North,3.0,Shortlisted,7.0,Enterprise
+APP1423,2025-09-14 10:34:39.466,Student_460,FinEdge,"Python, SQL, Power BI",BTECH,Male,West,5.0,Shortlisted,6.0,Mid-Size
+APP1424,2025-09-15 01:09:42.972,Student_443,CodeCraft,Python,MCA,Male,Central,0.0,Interview,2.0,Mid-Size
+APP1425,2025-09-15 15:44:46.477,Student_371,DataSphere,"Python, SQL, Power BI",BCA,Male,Central,4.0,Rejected,10.0,Startup
+APP1426,2025-09-16 06:19:49.983,Student_470,CloudCore,Excel,BSC,Female,Central,1.0,Rejected,11.0,Enterprise
+APP1427,2025-09-16 20:54:53.489,Student_375,NextGen,SQL,MSC,Female,South,1.0,Interview,11.0,Startup
+APP1428,2025-09-17 11:29:56.995,Student_022,DataSphere,SQL,MCA,Female,North,3.0,Interview,11.0,Startup
+APP1429,2025-09-18 02:05:00.501,Student_238,InsightLabs,Python,MSC,Male,West,0.0,Shortlisted,15.0,Enterprise
+APP1430,2025-09-18 16:40:04.007,Student_158,InsightLabs,"Python, Power BI",BCA,Female,South,0.0,Rejected,15.0,Enterprise
+APP1431,2025-09-19 07:15:07.513,Student_038,TechNova,Excel,MCA,Male,East,2.0,Interview,8.0,Enterprise
+APP1432,2025-09-19 21:50:11.018,Student_230,FinEdge,Excel,BTECH,Female,West,0.0,Selected,7.0,Mid-Size
+APP1433,2025-09-20 12:25:14.524,Student_365,MarketMind,"Python, SQL",BCA,Female,West,3.0,Selected,15.0,Enterprise
+APP1434,2025-09-21 03:00:18.030,Student_051,CodeCraft,"Python, Power BI",BCA,Male,West,6.0,Shortlisted,15.0,Enterprise
+APP1435,2025-09-21 17:35:21.536,Student_438,InnoSoft,"Excel, Tableau",BTECH,Female,Central,2.0,Shortlisted,7.0,Enterprise
+APP1436,2025-09-22 08:10:25.042,Student_264,NextGen,"Excel, Tableau",BCA,Male,West,2.0,Shortlisted,14.0,Startup
+APP1437,2025-09-22 22:45:28.548,Student_283,CloudCore,Power BI,MCA,Female,North,1.0,Interview,15.0,Startup
+APP1438,2025-09-23 13:20:32.053,Student_027,MarketMind,Tableau,MSC,Male,West,1.0,Shortlisted,8.0,Mid-Size
+APP1439,2025-09-24 03:55:35.559,Student_226,DataSphere,SQL,BCA,Male,Central,0.0,Shortlisted,12.0,Startup
+APP1440,2025-09-24 18:30:39.065,Student_277,InsightLabs,"Excel, Tableau",MCA,Female,West,2.0,Interview,12.0,Mid-Size
+APP1441,2025-09-25 09:05:42.571,Student_286,NextGen,"Python, Power BI",BSC,Male,East,1.0,Shortlisted,13.0,Startup
+APP1442,2025-09-25 23:40:46.077,Student_097,InnoSoft,Excel,MCA,Male,East,3.0,Interview,14.0,Enterprise
+APP1443,2025-09-26 14:15:49.583,Student_284,CodeCraft,"Excel, Tableau",MSC,Male,Central,1.0,Shortlisted,11.0,Startup
+APP1444,2025-09-27 04:50:53.088,Student_367,TechNova,Excel,MCA,Female,North,5.0,Shortlisted,1.0,Mid-Size
+APP1445,2025-09-27 19:25:56.594,Student_448,InnoSoft,"Excel, Tableau",BTECH,Female,North,5.0,Shortlisted,15.0,Startup
+APP1446,2025-09-28 10:01:00.100,Student_481,NextGen,SQL,MSC,Male,South,1.0,Interview,13.0,Enterprise
+APP1447,2025-09-29 00:36:03.606,Student_453,InnoSoft,"Python, SQL, Power BI",BSC,Male,Central,2.0,Applied,1.0,Mid-Size
+APP1448,2025-09-29 15:11:07.112,Student_317,NextGen,"Excel, Tableau",BTECH,Male,West,6.0,Shortlisted,8.0,Enterprise
+APP1449,2025-09-30 05:46:10.618,Student_304,NextGen,"Python, Power BI",MCA,Male,Central,6.0,Selected,4.0,Enterprise
+APP1450,2025-09-30 20:21:14.124,Student_147,ByteWorks,"Excel, Tableau",MSC,Male,South,2.0,Applied,5.0,Mid-Size
+APP1451,2025-10-01 10:56:17.629,Student_004,CloudCore,Tableau,BSC,Female,Central,4.0,Rejected,8.0,Enterprise
+APP1452,2025-10-02 01:31:21.135,Student_035,InsightLabs,SQL,BTECH,Female,Central,6.0,Rejected,5.0,Enterprise
+APP1453,2025-10-02 16:06:24.641,Student_192,ByteWorks,"Python, Power BI",BSC,Female,South,5.0,Shortlisted,10.0,Startup
+APP1454,2025-10-03 06:41:28.147,Student_049,CodeCraft,"Python, SQL",MCA,Female,North,3.0,Rejected,4.0,Enterprise
+APP1455,2025-10-03 21:16:31.653,Student_017,ByteWorks,"Python, Power BI",BSC,Female,West,2.0,Shortlisted,12.0,Enterprise
+APP1456,2025-10-04 11:51:35.159,Student_172,FinEdge,Tableau,BCA,Female,South,0.0,Rejected,6.0,Enterprise
+APP1457,2025-10-05 02:26:38.664,Student_220,FinEdge,"Python, SQL, Power BI",BTECH,Male,East,5.0,Shortlisted,13.0,Enterprise
+APP1458,2025-10-05 17:01:42.170,Student_158,InsightLabs,SQL,BSC,Female,North,3.0,Rejected,15.0,Mid-Size
+APP1459,2025-10-06 07:36:45.676,Student_477,InnoSoft,"Python, SQL",MCA,Female,East,3.0,Applied,12.0,Startup
+APP1460,2025-10-06 22:11:49.182,Student_046,CloudCore,Tableau,MCA,Female,North,2.0,Rejected,5.0,Enterprise
+APP1461,2025-10-07 12:46:52.688,Student_373,InsightLabs,Tableau,BSC,Male,West,3.0,Shortlisted,14.0,Enterprise
+APP1462,2025-10-08 03:21:56.194,Student_006,NextGen,Python,MCA,Male,West,2.0,Shortlisted,7.0,Mid-Size
+APP1463,2025-10-08 17:56:59.699,Student_099,DataSphere,SQL,MSC,Male,Central,6.0,Shortlisted,14.0,Enterprise
+APP1464,2025-10-09 08:32:03.205,Student_380,CloudCore,"Python, Power BI",MSC,Female,East,1.0,Shortlisted,10.0,Mid-Size
+APP1465,2025-10-09 23:07:06.711,Student_233,CloudCore,Excel,MSC,Female,North,5.0,Interview,7.0,Startup
+APP1466,2025-10-10 13:42:10.217,Student_037,NextGen,"Python, SQL, Power BI",BCA,Male,West,4.0,Shortlisted,13.0,Startup
+APP1467,2025-10-11 04:17:13.723,Student_280,NextGen,Excel,BSC,Female,South,1.0,Selected,4.0,Enterprise
+APP1468,2025-10-11 18:52:17.229,Student_349,TechNova,"Python, Power BI",BCA,Male,West,5.0,Selected,12.0,Enterprise
+APP1469,2025-10-12 09:27:20.735,Student_497,InsightLabs,"Python, Power BI",MCA,Male,South,2.0,Rejected,13.0,Enterprise
+APP1470,2025-10-13 00:02:24.240,Student_302,InnoSoft,"Python, Power BI",BCA,Male,North,5.0,Applied,5.0,Mid-Size
+APP1471,2025-10-13 14:37:27.746,Student_181,FinEdge,"Python, Power BI",MCA,Female,West,6.0,Shortlisted,13.0,Enterprise
+APP1472,2025-10-14 05:12:31.252,Student_095,InnoSoft,Python,MCA,Female,West,2.0,Interview,3.0,Enterprise
+APP1473,2025-10-14 19:47:34.758,Student_099,DataSphere,"Python, SQL",BTECH,Male,North,1.0,Shortlisted,15.0,Startup
+APP1474,2025-10-15 10:22:38.264,Student_188,InsightLabs,"Python, Power BI",MSC,Female,West,3.0,Applied,4.0,Enterprise
+APP1475,2025-10-16 00:57:41.770,Student_481,MarketMind,Excel,MCA,Male,South,0.0,Rejected,15.0,Startup
+APP1476,2025-10-16 15:32:45.275,Student_116,FinEdge,"Python, Power BI",BTECH,Female,West,5.0,Interview,14.0,Enterprise
+APP1477,2025-10-17 06:07:48.781,Student_191,InnoSoft,Python,MSC,Female,East,0.0,Interview,4.0,Startup
+APP1478,2025-10-17 20:42:52.287,Student_253,NextGen,"Excel, Tableau",MCA,Female,Central,2.0,Applied,3.0,Enterprise
+APP1479,2025-10-18 11:17:55.793,Student_469,MarketMind,"Excel, Tableau",MCA,Male,South,3.0,Rejected,13.0,Startup
+APP1480,2025-10-19 01:52:59.299,Student_416,NextGen,Tableau,BCA,Female,East,2.0,Shortlisted,10.0,Mid-Size
+APP1481,2025-10-19 16:28:02.805,Student_471,CloudCore,"Python, SQL, Power BI",BCA,Female,North,3.0,Shortlisted,5.0,Startup
+APP1482,2025-10-20 07:03:06.311,Student_161,FinEdge,Power BI,MSC,Male,South,1.0,Interview,5.0,Startup
+APP1483,2025-10-20 21:38:09.816,Student_256,CloudCore,"Python, SQL",MCA,Female,Central,4.0,Shortlisted,11.0,Startup
+APP1484,2025-10-21 12:13:13.322,Student_323,TechNova,"SQL, Excel",BSC,Male,Central,3.0,Shortlisted,7.0,Enterprise
+APP1485,2025-10-22 02:48:16.828,Student_128,CloudCore,Tableau,BCA,Female,North,0.0,Applied,4.0,Enterprise
+APP1486,2025-10-22 17:23:20.334,Student_018,TechNova,"Python, SQL, Power BI",MSC,Male,North,2.0,Interview,13.0,Enterprise
+APP1487,2025-10-23 07:58:23.840,Student_281,TechNova,"Excel, Tableau",MCA,Female,South,1.0,Interview,4.0,Mid-Size
+APP1488,2025-10-23 22:33:27.346,Student_490,MarketMind,Excel,MCA,Female,West,0.0,Rejected,9.0,Mid-Size
+APP1489,2025-10-24 13:08:30.851,Student_223,NextGen,"SQL, Excel",BSC,Male,North,1.0,Interview,6.0,Startup
+APP1490,2025-10-25 03:43:34.357,Student_054,InnoSoft,"Python, SQL, Power BI",MSC,Male,West,4.0,Applied,15.0,Mid-Size
+APP1491,2025-10-25 18:18:37.863,Student_058,CloudCore,"Python, SQL, Power BI",MCA,Male,East,6.0,Shortlisted,4.0,Startup
+APP1492,2025-10-26 08:53:41.369,Student_323,InnoSoft,Tableau,BCA,Male,Central,2.0,Shortlisted,2.0,Startup
+APP1493,2025-10-26 23:28:44.875,Student_360,TechNova,"SQL, Excel",BSC,Male,West,5.0,Applied,6.0,Startup
+APP1494,2025-10-27 14:03:48.381,Student_174,NextGen,SQL,MSC,Female,Central,2.0,Shortlisted,2.0,Mid-Size
+APP1495,2025-10-28 04:38:51.886,Student_280,DataSphere,Power BI,BSC,Male,West,4.0,Selected,5.0,Enterprise
+APP1496,2025-10-28 19:13:55.392,Student_114,InsightLabs,SQL,BCA,Male,East,2.0,Applied,6.0,Mid-Size
+APP1497,2025-10-29 09:48:58.898,Student_288,MarketMind,"SQL, Excel",MSC,Female,North,5.0,Shortlisted,4.0,Startup
+APP1498,2025-10-30 00:24:02.404,Student_431,InnoSoft,SQL,BSC,Male,East,3.0,Shortlisted,14.0,Startup
+APP1499,2025-10-30 14:59:05.910,Student_342,ByteWorks,Python,BTECH,Female,North,1.0,Shortlisted,13.0,Mid-Size
+APP1500,2025-10-31 05:34:09.416,Student_151,MarketMind,"Excel, Tableau",BCA,Female,North,5.0,Selected,3.0,Startup
+APP1501,2025-10-31 20:09:12.922,Student_450,DataSphere,Python,BCA,Female,Central,0.0,Shortlisted,7.0,Startup
+APP1502,2025-11-01 10:44:16.427,Student_127,InsightLabs,"Python, Power BI",BCA,Female,East,4.0,Shortlisted,2.0,Mid-Size
+APP1503,2025-11-02 01:19:19.933,Student_155,DataSphere,SQL,BTECH,Female,West,3.0,Interview,13.0,Mid-Size
+APP1504,2025-11-02 15:54:23.439,Student_490,CloudCore,"Python, Power BI",BTECH,Male,East,0.0,Applied,11.0,Mid-Size
+APP1505,2025-11-03 06:29:26.945,Student_386,TechNova,Excel,MCA,Male,Central,0.0,Shortlisted,14.0,Startup
+APP1506,2025-11-03 21:04:30.451,Student_474,InnoSoft,"Python, SQL",BSC,Male,North,4.0,Shortlisted,6.0,Startup
+APP1507,2025-11-04 11:39:33.957,Student_273,CodeCraft,Excel,MCA,Female,Central,3.0,Rejected,13.0,Enterprise
+APP1508,2025-11-05 02:14:37.462,Student_104,TechNova,"SQL, Excel",BSC,Male,South,6.0,Selected,4.0,Enterprise
+APP1509,2025-11-05 16:49:40.968,Student_417,CodeCraft,"Python, SQL, Power BI",BTECH,Female,South,0.0,Interview,6.0,Mid-Size
+APP1510,2025-11-06 07:24:44.474,Student_393,InsightLabs,"Excel, Tableau",BTECH,Other,West,0.0,Shortlisted,4.0,Enterprise
+APP1511,2025-11-06 21:59:47.980,Student_299,NextGen,SQL,MCA,Female,Central,3.0,Interview,4.0,Startup
+APP1512,2025-11-07 12:34:51.486,Student_246,ByteWorks,Tableau,MSC,Male,West,2.0,Applied,15.0,Enterprise
+APP1513,2025-11-08 03:09:54.992,Student_176,FinEdge,"Python, SQL",MCA,Male,West,0.0,Applied,4.0,Startup
+APP1514,2025-11-08 17:44:58.497,Student_039,TechNova,Power BI,BSC,Female,South,1.0,Shortlisted,9.0,Mid-Size
+APP1515,2025-11-09 08:20:02.003,Student_477,InnoSoft,Power BI,MCA,Female,West,3.0,Shortlisted,7.0,Mid-Size
+APP1516,2025-11-09 22:55:05.509,Student_170,DataSphere,Power BI,BCA,Male,South,0.0,Rejected,3.0,Startup
+APP1517,2025-11-10 13:30:09.015,Student_247,InnoSoft,SQL,BSC,Male,North,4.0,Rejected,3.0,Enterprise
+APP1518,2025-11-11 04:05:12.521,Student_026,InsightLabs,Power BI,BSC,Female,Central,5.0,Selected,6.0,Mid-Size
+APP1519,2025-11-11 18:40:16.027,Student_355,CodeCraft,Python,MSC,Female,West,1.0,Rejected,6.0,Mid-Size
+APP1520,2025-11-12 09:15:19.533,Student_306,DataSphere,"Python, SQL",BTECH,Female,South,5.0,Rejected,4.0,Enterprise
+APP1521,2025-11-12 23:50:23.038,Student_409,FinEdge,Python,BSC,Female,West,5.0,Applied,15.0,Enterprise
+APP1522,2025-11-13 14:25:26.544,Student_408,FinEdge,"Python, SQL, Power BI",BTECH,Female,West,0.0,Applied,15.0,Startup
+APP1523,2025-11-14 05:00:30.050,Student_013,TechNova,"Python, SQL",MCA,Male,North,1.0,Rejected,9.0,Enterprise
+APP1524,2025-11-14 19:35:33.556,Student_316,InsightLabs,"Python, Power BI",BCA,Male,North,1.0,Shortlisted,4.0,Enterprise
+APP1525,2025-11-15 10:10:37.062,Student_391,NextGen,"Python, SQL",MSC,Male,East,2.0,Interview,9.0,Enterprise
+APP1526,2025-11-16 00:45:40.568,Student_313,InsightLabs,"Python, SQL, Power BI",BTECH,Male,South,5.0,Applied,4.0,Startup
+APP1527,2025-11-16 15:20:44.073,Student_036,CodeCraft,"Python, Power BI",BSC,Female,West,1.0,Applied,2.0,Startup
+APP1528,2025-11-17 05:55:47.579,Student_173,InnoSoft,SQL,BTECH,Female,South,2.0,Shortlisted,2.0,Mid-Size
+APP1529,2025-11-17 20:30:51.085,Student_020,FinEdge,SQL,BSC,Female,North,3.0,Shortlisted,5.0,Startup
+APP1530,2025-11-18 11:05:54.591,Student_321,InnoSoft,Power BI,BTECH,Male,South,2.0,Applied,4.0,Mid-Size
+APP1531,2025-11-19 01:40:58.097,Student_264,InnoSoft,Excel,BSC,Female,North,4.0,Interview,7.0,Enterprise
+APP1532,2025-11-19 16:16:01.603,Student_494,InnoSoft,Power BI,MCA,Female,South,6.0,Applied,14.0,Mid-Size
+APP1533,2025-11-20 06:51:05.109,Student_400,FinEdge,"SQL, Excel",BSC,Female,East,0.0,Rejected,11.0,Mid-Size
+APP1534,2025-11-20 21:26:08.614,Student_142,MarketMind,Python,BSC,Female,Central,3.0,Shortlisted,5.0,Enterprise
+APP1535,2025-11-21 12:01:12.120,Student_460,CloudCore,"Python, SQL",BCA,Male,East,6.0,Applied,6.0,Mid-Size
+APP1536,2025-11-22 02:36:15.626,Student_371,CodeCraft,Excel,BSC,Male,East,6.0,Shortlisted,10.0,Startup
+APP1537,2025-11-22 17:11:19.132,Student_471,MarketMind,"Python, SQL, Power BI",BCA,Male,Central,3.0,Interview,8.0,Startup
+APP1538,2025-11-23 07:46:22.638,Student_143,CodeCraft,"SQL, Excel",MSC,Male,Central,4.0,Shortlisted,13.0,Startup
+APP1539,2025-11-23 22:21:26.144,Student_092,DataSphere,"Python, SQL, Power BI",BCA,Male,West,2.0,Interview,12.0,Startup
+APP1540,2025-11-24 12:56:29.649,Student_354,InsightLabs,SQL,MCA,Female,West,0.0,Applied,2.0,Mid-Size
+APP1541,2025-11-25 03:31:33.155,Student_322,InsightLabs,SQL,BCA,Female,East,2.0,Interview,13.0,Mid-Size
+APP1542,2025-11-25 18:06:36.661,Student_288,ByteWorks,Power BI,MSC,Female,East,1.0,Shortlisted,10.0,Enterprise
+APP1543,2025-11-26 08:41:40.167,Student_215,InsightLabs,Python,MCA,Female,North,2.0,Rejected,9.0,Mid-Size
+APP1544,2025-11-26 23:16:43.673,Student_447,FinEdge,Excel,BTECH,Male,North,3.0,Rejected,10.0,Mid-Size
+APP1545,2025-11-27 13:51:47.179,Student_342,NextGen,"Excel, Tableau",BTECH,Female,West,0.0,Selected,15.0,Mid-Size
+APP1546,2025-11-28 04:26:50.684,Student_051,TechNova,"SQL, Excel",BCA,Male,West,2.0,Shortlisted,7.0,Enterprise
+APP1547,2025-11-28 19:01:54.190,Student_153,ByteWorks,"SQL, Excel",BCA,Male,North,0.0,Applied,4.0,Startup
+APP1548,2025-11-29 09:36:57.696,Student_186,TechNova,Power BI,MSC,Male,North,0.0,Applied,3.0,Mid-Size
+APP1549,2025-11-30 00:12:01.202,Student_063,CodeCraft,SQL,MSC,Male,South,1.0,Interview,10.0,Enterprise
+APP1550,2025-11-30 14:47:04.708,Student_190,TechNova,Power BI,BSC,Male,South,1.0,Rejected,14.0,Enterprise
+APP1551,2025-12-01 05:22:08.214,Student_125,TechNova,"Python, SQL",MSC,Male,North,3.0,Interview,15.0,Enterprise
+APP1552,2025-12-01 19:57:11.720,Student_150,ByteWorks,Excel,BSC,Male,South,4.0,Shortlisted,3.0,Startup
+APP1553,2025-12-02 10:32:15.225,Student_314,DataSphere,Python,MCA,Female,Central,6.0,Shortlisted,9.0,Mid-Size
+APP1554,2025-12-03 01:07:18.731,Student_058,InnoSoft,"Python, Power BI",BCA,Male,West,0.0,Applied,5.0,Enterprise
+APP1555,2025-12-03 15:42:22.237,Student_342,InsightLabs,Tableau,MCA,Male,West,4.0,Selected,13.0,Startup
+APP1556,2025-12-04 06:17:25.743,Student_305,InsightLabs,Tableau,MSC,Male,North,6.0,Rejected,15.0,Enterprise
+APP1557,2025-12-04 20:52:29.249,Student_180,FinEdge,Power BI,MCA,Female,East,6.0,Selected,3.0,Enterprise
+APP1558,2025-12-05 11:27:32.755,Student_170,ByteWorks,"Python, SQL",MCA,Male,North,3.0,Shortlisted,8.0,Enterprise
+APP1559,2025-12-06 02:02:36.260,Student_326,InnoSoft,Excel,MCA,Male,South,6.0,Rejected,5.0,Enterprise
+APP1560,2025-12-06 16:37:39.766,Student_271,NextGen,"Excel, Tableau",MSC,Male,East,6.0,Rejected,2.0,Enterprise
+APP1561,2025-12-07 07:12:43.272,Student_054,NextGen,Tableau,MCA,Male,South,0.0,Shortlisted,11.0,Startup
+APP1562,2025-12-07 21:47:46.778,Student_491,FinEdge,Excel,BSC,Male,Central,0.0,Interview,4.0,Mid-Size
+APP1563,2025-12-08 12:22:50.284,Student_444,ByteWorks,Python,MSC,Male,South,5.0,Selected,10.0,Mid-Size
+APP1564,2025-12-09 02:57:53.790,Student_101,FinEdge,"Python, SQL, Power BI",MCA,Male,Central,4.0,Selected,2.0,Mid-Size
+APP1565,2025-12-09 17:32:57.295,Student_481,InsightLabs,"Python, SQL",MSC,Male,Central,2.0,Interview,2.0,Mid-Size
+APP1566,2025-12-10 08:08:00.801,Student_264,MarketMind,SQL,BTECH,Male,South,1.0,Shortlisted,12.0,Startup
+APP1567,2025-12-10 22:43:04.307,Student_053,CloudCore,Excel,BSC,Female,South,2.0,Shortlisted,8.0,Startup
+APP1568,2025-12-11 13:18:07.813,Student_060,TechNova,Python,MCA,Female,Central,4.0,Selected,1.0,Startup
+APP1569,2025-12-12 03:53:11.319,Student_492,CloudCore,"Excel, Tableau",BTECH,Male,East,1.0,Applied,14.0,Enterprise
+APP1570,2025-12-12 18:28:14.825,Student_108,InnoSoft,"Python, Power BI",BTECH,Male,Central,2.0,Interview,7.0,Enterprise
+APP1571,2025-12-13 09:03:18.331,Student_005,CloudCore,SQL,MSC,Female,West,5.0,Interview,5.0,Enterprise
+APP1572,2025-12-13 23:38:21.836,Student_103,NextGen,"Python, Power BI",BTECH,Male,Central,1.0,Rejected,15.0,Mid-Size
+APP1573,2025-12-14 14:13:25.342,Student_196,CodeCraft,"Excel, Tableau",BSC,Male,East,0.0,Selected,11.0,Enterprise
+APP1574,2025-12-15 04:48:28.848,Student_262,TechNova,Python,BSC,Female,West,2.0,Shortlisted,8.0,Mid-Size
+APP1575,2025-12-15 19:23:32.354,Student_365,InnoSoft,Tableau,BCA,Male,North,1.0,Shortlisted,1.0,Enterprise
+APP1576,2025-12-16 09:58:35.860,Student_480,ByteWorks,"Python, Power BI",BSC,Male,North,5.0,Applied,11.0,Mid-Size
+APP1577,2025-12-17 00:33:39.366,Student_372,TechNova,SQL,BTECH,Male,East,6.0,Shortlisted,7.0,Enterprise
+APP1578,2025-12-17 15:08:42.871,Student_350,CloudCore,Power BI,BSC,Female,Central,1.0,Shortlisted,5.0,Enterprise
+APP1579,2025-12-18 05:43:46.377,Student_047,NextGen,"SQL, Excel",MSC,Male,South,1.0,Shortlisted,4.0,Startup
+APP1580,2025-12-18 20:18:49.883,Student_355,DataSphere,Excel,BCA,Female,East,5.0,Interview,7.0,Enterprise
+APP1581,2025-12-19 10:53:53.389,Student_311,MarketMind,Tableau,BTECH,Other,West,6.0,Selected,10.0,Enterprise
+APP1582,2025-12-20 01:28:56.895,Student_424,InnoSoft,"Python, Power BI",BCA,Male,West,2.0,Shortlisted,15.0,Startup
+APP1583,2025-12-20 16:04:00.401,Student_308,MarketMind,"Python, SQL, Power BI",BTECH,Male,North,3.0,Shortlisted,2.0,Mid-Size
+APP1584,2025-12-21 06:39:03.907,Student_144,TechNova,Excel,MSC,Male,West,2.0,Selected,12.0,Startup
+APP1585,2025-12-21 21:14:07.412,Student_269,InnoSoft,Power BI,BCA,Male,East,6.0,Applied,15.0,Startup
+APP1586,2025-12-22 11:49:10.918,Student_370,NextGen,"Excel, Tableau",MCA,Male,West,4.0,Applied,1.0,Mid-Size
+APP1587,2025-12-23 02:24:14.424,Student_124,CloudCore,"SQL, Excel",BTECH,Female,East,5.0,Applied,1.0,Enterprise
+APP1588,2025-12-23 16:59:17.930,Student_106,InsightLabs,Python,MCA,Female,South,3.0,Rejected,11.0,Mid-Size
+APP1589,2025-12-24 07:34:21.436,Student_158,CloudCore,Power BI,BCA,Female,North,1.0,Applied,8.0,Enterprise
+APP1590,2025-12-24 22:09:24.942,Student_147,InsightLabs,Power BI,MCA,Male,West,5.0,Selected,1.0,Enterprise
+APP1591,2025-12-25 12:44:28.447,Student_145,InsightLabs,"Excel, Tableau",MCA,Female,East,0.0,Shortlisted,15.0,Mid-Size
+APP1592,2025-12-26 03:19:31.953,Student_120,InnoSoft,"Python, SQL",BCA,Female,Central,6.0,Rejected,12.0,Startup
+APP1593,2025-12-26 17:54:35.459,Student_319,CloudCore,"Excel, Tableau",MSC,Female,West,2.0,Shortlisted,5.0,Mid-Size
+APP1594,2025-12-27 08:29:38.965,Student_275,DataSphere,"Python, SQL",MCA,Male,South,5.0,Shortlisted,10.0,Enterprise
+APP1595,2025-12-27 23:04:42.471,Student_092,FinEdge,"Python, SQL",MCA,Female,East,2.0,Rejected,7.0,Mid-Size
+APP1596,2025-12-28 13:39:45.977,Student_058,FinEdge,Tableau,MSC,Male,South,5.0,Interview,2.0,Mid-Size
+APP1597,2025-12-29 04:14:49.482,Student_439,CloudCore,Tableau,MCA,Male,South,1.0,Interview,10.0,Enterprise
+APP1598,2025-12-29 18:49:52.988,Student_346,CloudCore,SQL,MCA,Male,West,0.0,Rejected,8.0,Startup
+APP1599,2025-12-30 09:24:56.494,Student_229,MarketMind,"Python, Power BI",MCA,Female,West,0.0,Selected,4.0,Mid-Size
+APP1600,2025-12-31 00:00:00.000,Student_474,InnoSoft,"Python, Power BI",BSC,Female,East,4.0,Interview,12.0,Enterprise
